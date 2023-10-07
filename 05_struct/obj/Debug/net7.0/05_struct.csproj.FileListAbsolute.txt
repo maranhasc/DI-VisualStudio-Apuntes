@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\bin\Debug\net7.0\05_struct.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\bin\Debug\net7.0\05_struct.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\bin\Debug\net7.0\05_struct.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\bin\Debug\net7.0\05_struct.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\bin\Debug\net7.0\05_struct.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\refint\05_struct.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\05_struct.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\05_struct\obj\Debug\net7.0\ref\05_struct.dll

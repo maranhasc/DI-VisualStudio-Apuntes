@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\bin\Debug\net7.0\06_clases.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\bin\Debug\net7.0\06_clases.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\bin\Debug\net7.0\06_clases.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\bin\Debug\net7.0\06_clases.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\bin\Debug\net7.0\06_clases.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\refint\06_clases.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\06_clases.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\06_clases\obj\Debug\net7.0\ref\06_clases.dll

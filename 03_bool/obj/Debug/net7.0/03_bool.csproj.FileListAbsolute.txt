@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\bin\Debug\net7.0\03_bool.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\bin\Debug\net7.0\03_bool.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\bin\Debug\net7.0\03_bool.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\bin\Debug\net7.0\03_bool.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\bin\Debug\net7.0\03_bool.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\refint\03_bool.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\03_bool.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\03_bool\obj\Debug\net7.0\ref\03_bool.dll

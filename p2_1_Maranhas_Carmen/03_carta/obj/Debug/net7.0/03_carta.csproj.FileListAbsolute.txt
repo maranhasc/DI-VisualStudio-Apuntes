@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_carta\obj\Debug\net7.0\03_carta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_carta\obj\Debug\net7.0\03_carta.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_carta\obj\Debug\net7.0\03_carta.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_carta\obj\Debug\net7.0\03_carta.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\bin\Debug\net7.0\03_carta.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\bin\Debug\net7.0\03_carta.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\bin\Debug\net7.0\03_carta.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\bin\Debug\net7.0\03_carta.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\bin\Debug\net7.0\03_carta.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\obj\Debug\net7.0\03_carta.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\obj\Debug\net7.0\refint\03_carta.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\obj\Debug\net7.0\03_carta.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\obj\Debug\net7.0\03_carta.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\03_Carta\obj\Debug\net7.0\ref\03_carta.dll

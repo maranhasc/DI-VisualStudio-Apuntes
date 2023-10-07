@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\bin\Debug\net7.0\01_variables.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\bin\Debug\net7.0\01_variables.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\bin\Debug\net7.0\01_variables.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\bin\Debug\net7.0\01_variables.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\bin\Debug\net7.0\01_variables.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\refint\01_variables.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\01_variables.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\01_variables\obj\Debug\net7.0\ref\01_variables.dll

@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\bin\Debug\net7.0\web.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\bin\Debug\net7.0\web.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\bin\Debug\net7.0\web.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\bin\Debug\net7.0\web.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\bin\Debug\net7.0\web.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\refint\web.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\web.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\obj\Debug\net7.0\ref\web.dll

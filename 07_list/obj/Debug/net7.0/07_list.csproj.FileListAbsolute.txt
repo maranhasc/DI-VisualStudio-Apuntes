@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\bin\Debug\net7.0\07_list.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\bin\Debug\net7.0\07_list.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\bin\Debug\net7.0\07_list.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\bin\Debug\net7.0\07_list.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\bin\Debug\net7.0\07_list.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\refint\07_list.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\07_list.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\07_list\obj\Debug\net7.0\ref\07_list.dll

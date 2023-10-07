@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\bin\Debug\net7.0\05_tablamult.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\bin\Debug\net7.0\05_tablamult.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\bin\Debug\net7.0\05_tablamult.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\bin\Debug\net7.0\05_tablamult.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\bin\Debug\net7.0\05_tablamult.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\refint\05_tablamult.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\05_tablamult.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\05_tablamult\obj\Debug\net7.0\ref\05_tablamult.dll

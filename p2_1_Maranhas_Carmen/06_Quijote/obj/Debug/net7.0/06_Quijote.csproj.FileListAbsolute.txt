@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\bin\Debug\net7.0\06_Quijote.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\bin\Debug\net7.0\06_Quijote.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\bin\Debug\net7.0\06_Quijote.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\bin\Debug\net7.0\06_Quijote.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\bin\Debug\net7.0\06_Quijote.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\refint\06_Quijote.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\06_Quijote.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_1_Maranhas_Carmen\06_Quijote\obj\Debug\net7.0\ref\06_Quijote.dll
